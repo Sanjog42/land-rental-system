@@ -1,0 +1,15 @@
+
+                                 Techno Property Nepal
+    ___________________________________Bill______________________________________
+    |Name: sanjog                                            Date: 2024-07-27         |
+    |___________________________________________________________________________|
+    Kitta Number - 101            
+    City - Kathmandu      
+    Direction - East           
+    Area - 8              
+    Duration - 3              
+    Exceeded Duration (months) - 1                 
+    Rent (per month) - Rs. 90000.0   
+    Penalty - Rs. 283500.0  
+    Overall Total - Rs. 553500.0       
+    

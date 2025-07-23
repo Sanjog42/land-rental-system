@@ -1,0 +1,10 @@
+101,Kathmandu,East,90000,8,Available
+102,Pokhara,North,75000,1,Not Available
+103,Kathmandu,East,50000,4,Not Available
+104,Hetauda,East,40000,9,Available
+105,Gulmi,West,50000,32,Available
+106,Butwal,North,25000,4,Available
+107,Kathmandu,South,120000,6,Available
+108,Bhairawa,East,35000,12,Available
+109,Kathmandu,East,60000,7,Available
+110,Pokhara,East,65000,10,Available
